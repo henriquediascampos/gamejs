@@ -114,7 +114,7 @@ const render = function(){
   }
   
   //pontuação
-  ctx.fillStyle = 'rgb(250, 250, 250)';
+  ctx.fillStyle = 'rgb(250, 250, 250)'; 
   ctx.font = '24px Helvetica';
   ctx.textAlign = 'left';
   ctx.textBaseline = 'top';
